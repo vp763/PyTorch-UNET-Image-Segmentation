@@ -41,7 +41,7 @@ Here is a sample of the model's predictions on the validation data.
 ![Original Images](original_images.png)
 
 **True Masks (Ground Truth):**
-![True Masks](path/to/your/true_masks.png)
+![True Masks](pred_masks.png)
 
 **Predicted Masks by our U-Net:**
-![Predicted Masks](path/to/your/pred_masks.png)
+![Predicted Masks](true_masks.png)

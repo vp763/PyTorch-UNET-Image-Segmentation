@@ -31,8 +31,8 @@ This project is a complete, end-to-end implementation of the U-Net architecture 
 ## 📊 Results & Visualization
 After training for 25 epochs, the model achieved the following performance on the validation set:
 
-* **Pixel Accuracy:** [YAHAN APNA ACCURACY SCORE LIKHO, e.g., 85.14%]
-* **Dice Score:** [YAHAN APNA DICE SCORE LIKHO, e.g., 0.7521]
+* **Pixel Accuracy:** 66.42%
+* **Dice Score:** 0.2984
 
 ### Prediction Examples
 Here is a sample of the model's predictions on the validation data.

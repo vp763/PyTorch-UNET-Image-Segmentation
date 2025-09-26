@@ -38,7 +38,7 @@ After training for 25 epochs, the model achieved the following performance on th
 Here is a sample of the model's predictions on the validation data.
 
 **Original Images:**
-![Original Images](path/to/your/original_images.png)
+![Original Images](original_images.png)
 
 **True Masks (Ground Truth):**
 ![True Masks](path/to/your/true_masks.png)

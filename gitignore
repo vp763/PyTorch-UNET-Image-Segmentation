@@ -1,0 +1,15 @@
+# Python auto-generated files
+__pycache__/
+*.pyc
+
+# Virtual Environment folders
+.env
+venv/
+ENV/
+
+# Colab-specific files
+.ipynb_checkpoints/
+
+# Project-specific large or generated folders
+data/
+saved_images/

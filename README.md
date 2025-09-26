@@ -19,7 +19,7 @@ This project is a complete, end-to-end implementation of the U-Net architecture 
 ## ⚙️ How to Run
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    gh repo clone vp763/PyTorch-UNET-Image-Segmentation
     ```
 2.  **Install Dependencies:**
     ```bash
